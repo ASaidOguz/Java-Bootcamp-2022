@@ -1,0 +1,27 @@
+package intro;
+
+public class Main {
+//main javada başlangıç noktasıdır.
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+		
+		String metin="Ilgili biri olarak";
+		String altmetin="Vade süresi";
+		
+		System.out.println(metin);
+		int vade=120;
+		
+		double dolarDun=18.15;
+		double dolarBugun=18.10;
+		
+		boolean dolarNeDurumda=false;
+		String okyonu="down.svg";
+		if (dolarDun>dolarBugun) {
+			
+		}else {
+			
+		}
+
+	}
+
+}
